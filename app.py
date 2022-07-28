@@ -1,5 +1,4 @@
 ### DEPENDENCY IMPORTS ###
-from operator import iconcat
 import streamlit as st 
 import tensorflow as tf
 import cv2 as cv
